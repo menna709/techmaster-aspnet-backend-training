@@ -1,4 +1,4 @@
-# techmaster-aspnet-backend-training
+
 # TechMaster ASP.NET Backend Career Training
 
 ## Student Information
